@@ -4,3 +4,4 @@ mysql
 mysql:5.7
 jupyter/datascience-notebook
 lobehub/lobe-chat
+istio/istiod:1.23.0
